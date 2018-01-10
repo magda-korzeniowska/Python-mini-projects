@@ -2,7 +2,7 @@
 <p>Mini projects to test my coding skills</p>
 <p>The list of projects:<br>
 0 - <a href="https://github.com/magda-korzeniowska/Python-mini-projects/blob/master/name_generator.py">Name Generator</a><br> 
-1 - Higher/Lower Head/Tails<br> 
+1 - <a href="https://github.com/magda-korzeniowska/Python-mini-projects/blob/master/higher_lower.py">Higher/Lower</a><br> 
 2 - Age is Seconds<br> 
 3 - Temperature Converter<br> 
 4 - Encrypt / Decrypt Algorithm<br> 
