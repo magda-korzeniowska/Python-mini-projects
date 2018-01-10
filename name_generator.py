@@ -10,7 +10,7 @@ surname = ["Gajewski", "Nowak", "Nadworny", "Skowycki", "Myśliński", "Robak"]
 
 
 while True:
-    choice = input("to generate famale name - press 'f', male name - press 'm', to quit press - 'q'")
+    choice = input("to generate female name - press 'f', male name - press 'm', to quit press - 'q'")
     if choice in ("f", "m", "q"):
         if choice == "m":
             new_name = random.choice(male_name) + " " + random.choice(surname)
