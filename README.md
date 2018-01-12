@@ -3,7 +3,7 @@
 <p>The list of projects:<br>
 0 - <a href="https://github.com/magda-korzeniowska/Python-mini-projects/blob/master/name_generator.py">Name Generator</a><br> 
 1 - <a href="https://github.com/magda-korzeniowska/Python-mini-projects/blob/master/higher_lower.py">Higher/Lower</a><br> 
-2 - Age is Seconds<br> 
+2 - <a href="https://github.com/magda-korzeniowska/Python-mini-projects/blob/master/age_in_seconds.py">Age is Seconds</a><br> 
 3 - Temperature Converter<br> 
 4 - Encrypt / Decrypt Algorithm<br> 
 5 - Fizz Buzz<br> 

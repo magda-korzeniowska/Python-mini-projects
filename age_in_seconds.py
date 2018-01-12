@@ -1,3 +1,6 @@
+# Python mini-project no. 2 - Age in Seconds
+# calculates your age in seconds based on your day of birth
+
 from datetime import datetime
 
 while True:
@@ -12,7 +15,9 @@ while True:
     delta = now - birth_date
     total_seconds = round(delta.total_seconds(),1)
 
-    print("You are {} seconds old!".format(str(total_seconds)))
+    print("You are {} seconds old!".format(total_seconds))
     break
+
+
 
 
